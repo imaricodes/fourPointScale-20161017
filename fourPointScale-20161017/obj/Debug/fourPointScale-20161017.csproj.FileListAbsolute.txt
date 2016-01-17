@@ -1,0 +1,6 @@
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\fourPointScale-20161017\fourPointScale-20161017\bin\Debug\fourPointScale-20161017.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\fourPointScale-20161017\fourPointScale-20161017\bin\Debug\fourPointScale-20161017.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\fourPointScale-20161017\fourPointScale-20161017\bin\Debug\fourPointScale-20161017.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\fourPointScale-20161017\fourPointScale-20161017\obj\Debug\fourPointScale-20161017.csprojResolveAssemblyReference.cache
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\fourPointScale-20161017\fourPointScale-20161017\obj\Debug\fourPointScale-20161017.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\fourPointScale-20161017\fourPointScale-20161017\obj\Debug\fourPointScale-20161017.pdb
